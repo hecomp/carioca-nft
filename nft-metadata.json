@@ -1,0 +1,16 @@
+{
+    "attributes": [
+      {
+        "trait_type": "Statue",
+        "value": "Jesus Christ"
+      },
+      {
+        "trait_type": "Symbol",
+        "value": "Protector"
+      }
+    ],
+    "description": "The world's most famous statue.",
+    "image": "https://gateway.pinata.cloud/ipfs/Qmb2LG24GWJRN8xrkwknrtj5PizvuvUHqyWsVuuFX2D2k8",
+    "name": "Cristo Redentor"
+  }
+  
